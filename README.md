@@ -8,4 +8,4 @@ a- go left
 d- go right
 
 ##SCREENSHOTS
-![TITLE SCREEN](https://github.com/anne-ananya/LUDO.github.io/blob/main/SCREENSHOTS/LUDO1.png)
+![TITLE SCREEN](https://github.com/anne-ananya/snake.game/blob/main/Screenshot%202023-03-31%20111005.png)
